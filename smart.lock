@@ -1,0 +1,83 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "iron-router": {},
+      "less-bootstrap-3": {},
+      "less-fontawesome-4": {},
+      "moment": {},
+      "lodash": {},
+      "underscore-string-latest": {},
+      "collection-helpers": {},
+      "roles": {},
+      "fake": {}
+    },
+    "packages": {
+      "iron-router": {
+        "git": "https://github.com/EventedMind/iron-router.git",
+        "tag": "v0.8.2",
+        "commit": "05415a8891ea87a00fb1e2388585f2ca5a38e0da"
+      },
+      "less-bootstrap-3": {
+        "git": "https://github.com/DerMambo/less-bootstrap-3.git",
+        "tag": "v0.0.2",
+        "commit": "b5010b2ff9e9ae6b0e6e13eb0f6c81c9cb84373e"
+      },
+      "less-fontawesome-4": {
+        "git": "https://github.com/DerMambo/less-fontawesome-4.git",
+        "tag": "v0.0.4",
+        "commit": "79fdf3d3e90fdb4635878b34f545965014cd4ea8"
+      },
+      "moment": {
+        "git": "https://github.com/acreeger/meteor-moment.git",
+        "tag": "v2.6.0",
+        "commit": "26156df681750fd6e6ed77043eef32b6653ebbdf"
+      },
+      "lodash": {
+        "git": "https://github.com/alethes/meteor-lodash.git",
+        "tag": "v0.7.1",
+        "commit": "57bbeb3e21c31b64641f9885bb2f390b84f8b925"
+      },
+      "underscore-string-latest": {
+        "git": "https://github.com/TimHeckel/meteor-underscore-string.git",
+        "tag": "v2.3.3",
+        "commit": "4a5d70eee48fbd90a6e6fc78747250d704a0b3bb"
+      },
+      "collection-helpers": {
+        "git": "https://github.com/dburles/meteor-collection-helpers.git",
+        "tag": "v0.3.0",
+        "commit": "842bd9343b19c0e45ae20ac9c63c8c356889959a"
+      },
+      "roles": {
+        "git": "https://github.com/alanning/meteor-roles.git",
+        "tag": "v1.2.10",
+        "commit": "7ccb35de0a6cb0c9a0c3666badd04757e39c09a6"
+      },
+      "fake": {
+        "git": "https://github.com/subhog/meteor-fake.git",
+        "tag": "v0.3.4",
+        "commit": "e5393ddad6fbee5638e5c430666693828b403abc"
+      },
+      "iron-layout": {
+        "git": "https://github.com/EventedMind/iron-layout.git",
+        "tag": "v0.2.0",
+        "commit": "4a2d53e35ba036b0c189c7ceca34be494d4c6c97"
+      },
+      "blaze-layout": {
+        "git": "https://github.com/EventedMind/blaze-layout.git",
+        "tag": "v0.2.5",
+        "commit": "273e3ab7d005d91a1a59c71bd224533b4dae2fbd"
+      },
+      "iron-core": {
+        "git": "https://github.com/EventedMind/iron-core.git",
+        "tag": "v0.2.0",
+        "commit": "0e48b5dc50d03f01025b7b900fb5ce2f13d52cad"
+      },
+      "iron-dynamic-template": {
+        "git": "https://github.com/EventedMind/iron-dynamic-template.git",
+        "tag": "v0.2.1",
+        "commit": "4dd1185c4d9d616c9abdb3f33e4a7d5a88db7e18"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<template name="home">
+  {{#if currentUser}}
+    <plaintext>{{userInfo}}</plaintext>
+  {{else}}
+    <div class="center">Please signup with Facebook</div>
+  {{/if}}
+</template>
